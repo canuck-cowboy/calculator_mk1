@@ -1,4 +1,4 @@
-# Iron Calculator: Mark I
+# BuckarooCalc: Mark I
 
 Iron Calculator: Mark I is a simple GUI-based calculator built using Python's Tkinter library. It provides basic arithmetic operations with a user-friendly interface.
 
